@@ -5,8 +5,8 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: 'put session',
-GITHUB_AUTH_TOKEN: 'put token', //"ghp_ " මෙම කොටස ඉවත් කර token එක දාන්න.
-GITHUB_USER_NAME: 'put your github user name',
+SESSION_ID: 'DARK-SHUTER-MD=yd9wGLyT#ncBHklFCzL0xQ2qdP6VHC9P7gHvfSCzN159zn8MMi6c',
+GITHUB_AUTH_TOKEN: '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', 
+GITHUB_USER_NAME: 'brother123',
 
 };
